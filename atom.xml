@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Brian Hsiung的博客</title>
   
-  
+  <subtitle>Brian Hsiung</subtitle>
   <link href="https://hsiung.top/atom.xml" rel="self"/>
   
   <link href="https://hsiung.top/"/>
